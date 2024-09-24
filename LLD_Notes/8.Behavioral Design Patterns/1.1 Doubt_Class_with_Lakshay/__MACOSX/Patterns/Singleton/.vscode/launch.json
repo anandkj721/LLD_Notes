@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/LLD_Notes/8.Behavioral Design Patterns/2.Doubt_Class_with_Lakshay_with_anno/__MACOSX/Patterns/Singleton",
+      "program": "e:/LLD_Notes/8.Behavioral Design Patterns/2.Doubt_Class_with_Lakshay_with_anno/__MACOSX/Patterns/Singleton/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
